@@ -43,3 +43,16 @@ Affected parameters are:
    logtoconsole = 
    logfile = C:\Users\sean\Documents\Visual Studio 2010\Projects\BroadbandDowntime\BroadbandDowntime\bin\Debug\BroadbandDowntime.InstallLog
    assemblypath = C:\Users\sean\Documents\Visual Studio 2010\Projects\BroadbandDowntime\BroadbandDowntime\bin\Debug\BroadbandDowntime.exe
+Installing assembly 'C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\bin\Debug\BroadbandDowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\bin\Debug\BroadbandDowntime.InstallLog
+   assemblypath = C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\bin\Debug\BroadbandDowntime.exe
+Installing service BroadbandDowntime...
+Service BroadbandDowntime has been successfully installed.
+Creating EventLog source BroadbandDowntime in log Application...
+Committing assembly 'C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\bin\Debug\BroadbandDowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\bin\Debug\BroadbandDowntime.InstallLog
+   assemblypath = C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\bin\Debug\BroadbandDowntime.exe

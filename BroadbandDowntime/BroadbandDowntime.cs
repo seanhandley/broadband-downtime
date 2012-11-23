@@ -7,6 +7,7 @@ using System.Linq;
 using System.ServiceProcess;
 using System.Text;
 using System.Threading;
+using System.IO;
 
 namespace BroadbandDowntime
 {
@@ -19,7 +20,8 @@ namespace BroadbandDowntime
 
         protected override void OnStart(string[] args)
         {
-            ThreadStart ts = new ThreadStart(delegate { Main.loop(); });
+            Main.Loop();
+            ThreadStart ts = new ThreadStart(delegate { Main.Loop(); });
             new Thread(ts).Start();
         }
 

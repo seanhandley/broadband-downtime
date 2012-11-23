@@ -7,3 +7,12 @@ c:\users\sean\documents\visual studio 2010\Projects\BroadbandDowntime\BroadbandD
 c:\users\sean\documents\visual studio 2010\Projects\BroadbandDowntime\BroadbandDowntime\obj\x86\Debug\GenerateResource.write.1.tlog
 c:\users\sean\documents\visual studio 2010\Projects\BroadbandDowntime\BroadbandDowntime\obj\x86\Debug\BroadbandDowntime.exe
 c:\users\sean\documents\visual studio 2010\Projects\BroadbandDowntime\BroadbandDowntime\obj\x86\Debug\BroadbandDowntime.pdb
+C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\obj\x86\Debug\BroadbandDowntime.exe
+C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\obj\x86\Debug\BroadbandDowntime.pdb
+C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\bin\Debug\BroadbandDowntime.exe
+C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\bin\Debug\BroadbandDowntime.pdb
+C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\obj\x86\Debug\BroadbandDowntime.ProjectInstaller.resources
+C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\obj\x86\Debug\BroadbandDowntime.BroadbandDowntime.resources
+C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sean\Documents\Visual Studio 2010\Projects\broadband-downtime\BroadbandDowntime\obj\x86\Debug\GenerateResource.write.1.tlog
